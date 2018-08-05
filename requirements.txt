@@ -1,0 +1,5 @@
+Django==1.11.15 <2
+Pillow==5.2.0
+pip==9.0.3
+pytz==2018.5
+setuptools==39.0.1
